@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Page</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Form Elements</h1>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="media.html">Media</a></li>
+                <li><a href="form.html">form</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Registration Form</h2>
+        <form action="post">
+
+            <label for="fname">First Name:</label>
+            <div><input type="text" name="fname" id="fname" ></div>
+            <br>
+
+            <label for="lname">Last Name:</label>
+            <div><input type="text" name="lname" id="lname" ></div>
+
+            <p>Gender:<input type="radio" name="gender" id="male" value="male">
+            <label for="male">male</label>
+            <input type="radio" name="gender" id="female" value="female">
+            <label for="female">female</label></p>
+            
+            <label for="country">Country:</label>
+            <select name="country" id="country">
+                <option value="India">India</option>
+                <option value="United States">United States</option>
+                <option value="United Kingdom">United Kingdom</option>              
+                <option value="Canada">Canada</option>
+                <option value="Australia">Australia</option>
+                <option value="Germany">Germany</option>
+                <option value="France">France</option>
+                <option value="Japan">Japan</option>
+                <option value="China">China</option>
+                <option value="Brazil">Brazil</option>
+            </select>
+            <br><br>
+
+            <label for="email">Email:</label>
+            <div><input type="text" name="email" id="email"></div>
+            <br>
+
+            <label for="pass">Password:</label>
+            <div><input type="password" name="pass" id="pass"></div>
+            <br>
+
+            <label for="skill">Skills:</label>
+            <div><textarea name="skill" id="skill" cols="30" rows="5"></textarea></textarea></div>
+            <br>
+
+            <input type="checkbox" name="tick" id="tick" value="yes">
+            <label for="tick">The above information is true to my knowledge</label>
+
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 HTML Fundamentals Project </p>
+    </footer>
