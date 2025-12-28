@@ -1,47 +1,106 @@
 # 🌐 HTML Fundamentals Showcase Website
 
-A beginner-friendly **HTML5 project** that demonstrates all essential HTML elements and concepts.  
-This project is created for **learning purposes**, **academic submission**, and **GitHub portfolio**.
+A beginner-friendly **HTML5 website** created to demonstrate the use of basic and essential HTML elements.  
+This project is suitable for **college assignments**, **practice**, and **GitHub portfolio**.
 
 ---
 
 ## 📌 Project Objective
 
-The objective of this project is to design a **multi-page static website using pure HTML5** that showcases:
+The objective of this project is to showcase core HTML concepts such as:
 - Text formatting
-- Media elements
+- Links and navigation
+- Images, audio, and video
 - Tables and lists
 - Forms
 - Iframes
 - HTML entities
-- Meta description
-- Semantic HTML tags
+- Meta tags
+- Semantic HTML5 structure
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
-
-(No CSS or JavaScript is used in this project)
+- HTML5  
+- CSS (basic styling)
 
 ---
 
 ## 📂 Project Structure
 
-```text
-html-fundamentals-website/
+```
+HTML Fundamentals Showcase Website/
 │
-├── index.html
-├── media.html
-├── form.html
+├── index.html # Home page
+├── media.html # Media elements (image, audio, video)
+├── form.html # HTML form page
+├── style.css # CSS styling
 │
-├── assets/
-│   ├── images/
-│   │   └── html.png
-│   ├── video/
-│   │   └── sample.mp4
-│   └── audio/
-│       └── sample.mp3
+├── htmlimg.png # HTML image
+├── cssimg.png # CSS image
+├── javaimg.png # Java image
 │
-└── README.md
+├── audio.aac # Audio file
+├── Screen Recording.mp4 # Video file
+│
+└── README.md # Project documentation
+
+
+---
+
+## ✨ Features Included
+
+- Paragraphs and headings
+- Anchor tags (internal navigation)
+- Images with captions
+- Audio and video elements
+- Tables and lists
+- HTML forms with input fields
+- HTML entities
+- Meta viewport tag
+- Semantic HTML tags:
+  - `<header>`
+  - `<nav>`
+  - `<main>`
+  - `<section>`
+  - `<footer>`
+
+---
+
+## 🚀 How to Run the Project
+
+1. Download or clone the repository
+2. Open `index.html` in any modern web browser
+3. Use the navigation menu to explore other pages
+
+---
+
+## 🌍 Live Website
+
+(Hosted using GitHub Pages)
+
+👉 Add your live link here after deployment.
+
+---
+
+## 🎓 Suitable For
+
+- HTML beginners
+- College / university assignments
+- Practice projects
+- GitHub portfolio
+
+---
+
+## 📜 License
+
+This project is created for **educational purposes only**.
+
+---
+
+## 🙌 Author
+
+**Prema Rawat**
+
+
