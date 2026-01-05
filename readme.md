@@ -76,14 +76,6 @@ HTML Fundamentals Showcase Website/
 
 ---
 
-## 🌍 Live Website
-
-(Hosted using GitHub Pages)
-
-👉 Add your live link here after deployment.
-
----
-
 ## 🎓 Suitable For
 
 - HTML beginners
@@ -102,5 +94,6 @@ This project is created for **educational purposes only**.
 ## 🙌 Author
 
 **Prema Rawat**
+
 
 
