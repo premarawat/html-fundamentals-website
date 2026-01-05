@@ -95,5 +95,9 @@ This project is created for **educational purposes only**.
 
 **Prema Rawat**
 
+---
+
+⭐ If you like this project, feel free to star the repository!
+
 
 
